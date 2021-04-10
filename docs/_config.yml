@@ -64,3 +64,4 @@ plugins:
     
 remote_theme: fastai/nbdev-jekyll-theme
 baseurl: /tcai_nbdev_tutorial/
+theme: jekyll-theme-cayman
