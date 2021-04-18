@@ -21,4 +21,5 @@ assert say_hello("Jeremy")=="Hello Jeremy!"
 yourName = input()
 print()
 #the previous print() is only to workaround AN nbdev_build_docs/jupyter input() bug
-print("Hello ", yourName)
+print("Hello", yourName)
+print("Hello", yourName , "Welcome!")
